@@ -40,7 +40,7 @@ I believe in **learning by doing**, and I'm currently documenting my **ML journe
 
 - [LinkedIn](https://www.linkedin.com/in/debasmita-datta-bhowmik-a82b81256)  
 - [GitHub](https://github.com/Debasmita-07)  
-- [Mail](debasmita1204@gmail.com)
+- [Mail](mailto:debasmita1204@gmail.com)
 
 ---
 
