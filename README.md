@@ -38,8 +38,8 @@ I believe in **learning by doing**, and I'm currently documenting my **ML journe
 
 ## 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/debasmita-datta-bhowmik-a82b81256))  
-- [GitHub](https://github.com/Demi-Leister)  
+- [LinkedIn](https://www.linkedin.com/in/debasmita-datta-bhowmik-a82b81256)  
+- [GitHub]([https://github.com/Demi-Leister](https://github.com/Debasmita-07))  
 - [Mail](debasmita1204@gmail.com) *(replace this with your real one)*
 
 ---
