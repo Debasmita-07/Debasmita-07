@@ -4,7 +4,7 @@
 
 ---
 
-## 👩‍💻 About Me
+<!-- ## 👩‍💻 About Me
 
 I'm a final-year Computer Science undergraduate at The ICFAI University, Tripura, with a passion for Machine Learning and AI.
 
@@ -33,7 +33,7 @@ I believe in **learning by doing**, and I'm currently documenting my **ML journe
 - Advanced Deep Learning with CNNs & RNNs  
 - Object Detection with YOLOv8 & TensorFlow  
 - Deployment & Model Optimization for Edge Devices  
-
+-->
 ---
 
 # 💻 Tech Stack:
