@@ -8,8 +8,6 @@
 
 I'm a final-year Computer Science undergraduate at The ICFAI University, Tripura, with a passion for Machine Learning and AI.
 
-I believe in **learning by doing**, and I'm currently documenting my **ML journey** through LinkedIn and daily practice!
-
 ---
 
 <!-- ## 🚀 Skills
